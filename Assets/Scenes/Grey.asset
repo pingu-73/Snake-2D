@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Grey
   m_EditorClassIdentifier: 
   colorMode: 3
-  topLeft: {r: 0.3019608, g: 0.2901961, b: 0.2901961, a: 1}
-  topRight: {r: 0.3019608, g: 0.2901961, b: 0.2901961, a: 1}
+  topLeft: {r: 1, g: 1, b: 1, a: 1}
+  topRight: {r: 1, g: 1, b: 1, a: 1}
   bottomLeft: {r: 1, g: 1, b: 1, a: 1}
   bottomRight: {r: 1, g: 1, b: 1, a: 1}
